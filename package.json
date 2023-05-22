@@ -1,0 +1,19 @@
+{
+  "name": "vue-next-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxiaochaocccc/vue-next-mini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxiaochaocccc/vue-next-mini/issues"
+  },
+  "homepage": "https://github.com/wangxiaochaocccc/vue-next-mini#readme"
+}
