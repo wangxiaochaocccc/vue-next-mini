@@ -1,1 +1,3 @@
-console.log('test rollup')
+import { ArrayFn } from '@vue/shared'
+
+console.log(ArrayFn([]))
